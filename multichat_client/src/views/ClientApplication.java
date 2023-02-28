@@ -97,7 +97,7 @@ public class ClientApplication extends JFrame {
 		/*========<< frame set >>========*/
 		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(2600, 150, 480, 800);
+		setBounds(600, 150, 480, 800);
 		
 		/*========<< panel >>========*/
 		
